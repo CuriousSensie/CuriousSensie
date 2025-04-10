@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hasnaat Khalid</h1>
 <h3 align="center">Computer Science Student @ NUST</h3>
 
+<p>I am an App Developer trying to bring ideas to life. <br /> Comfortable with Mobile and Web App Development, Databases and Cloud Storage, AI and API Integration. <br />I am keen to utilize my skillset to build value.</p>
 
 
 <p align="left">
