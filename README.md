@@ -9,7 +9,7 @@
 
 ---
 
-### 🔥 About Me
+### About Me
 - 🎓 3rd-year CS student @ NUST  
 - 💼 Full-Stack Web Developer (freelancing on Upwork & building projects)  
 - ⚡ Skilled in **MERN stack, Next.js, Databases and Cloud services, Git, Docker, 3rd party API and AI integrations, and API development**  
@@ -18,7 +18,7 @@
 ---
 
 ### 🛠️ Tech Toolbox
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,firebase,python,tensorflow,docker,git" />
 </p>
 
