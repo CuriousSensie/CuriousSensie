@@ -1,38 +1,61 @@
-<h1 align="center">Hi, I'm Muhammad Hasnaat Khalid</h1>
-<h3 align="center">Full-Stack Engineer | Computer Science Student @ NUST</h3>
+<h1 align="center">M. Hasnaat Khalid</h1>
+<h3 align="center">Full-Stack Engineer • CS Student @ NUST</h3>
 
 <p align="center">
- Currently in my 3rd year of Computer Science, I’m passionate about building scalable, user-friendly, and AI-powered web applications.  
- I work mostly as a freelance engineer, crafting products that are not only functional but also delightful to use.  
- My goal is to bring ideas to life — whether it's a SaaS platform, custom sites, in-house app solutions, or intelligent business solution.
+I’m a 3rd-year Computer Science student who genuinely enjoys turning ideas into real, usable products.  
+Most days, you’ll find me building full-stack web apps, experimenting with AI features, or refining systems to make them faster, cleaner, and more scalable.
+</p>
+
+<p align="center">
+I work as a freelance engineer and love owning products end-to-end. From shaping the idea, to building, shipping, and improving it based on real user needs.
 </p>
 
 ---
 
-### About Me
-- 🎓 3rd-year CS student @ NUST  
-- 💼 Full-Stack Web Developer (freelancing on Upwork & building projects)  
-- ⚡ Skilled in **MERN stack, Next.js, Databases and Cloud services, Git, Docker, 3rd party API and AI integrations, and API development**  
-- 🌍 Always open to collaboration, learning, and contributing to impactful projects  
+## A bit about me
+- CS undergraduate at **NUST**
+- Full-Stack Web Engineer (freelance + personal projects)
+- I enjoy solving real problems with clean engineering, not just writing code
+- Constantly learning — especially around **scalable systems, AI integrations, and product thinking**
+- Always open to collaboration on meaningful projects
 
 ---
 
-### 🛠️ Tech Toolbox
+## Tech I work with
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,firebase,python,tensorflow,docker,git" />
 </p>
 
+**What I usually build with:**
+- Frontend: React, Next.js, Tailwind
+- Backend: Node.js, Express, Python (REST & FastAPI)
+- Databases: MongoDB, Firebase, SQL
+- AI: OpenAI APIs, LangChain, TensorFlow
+- Dev & Deploy: Git, Docker, cloud services
+
 ---
 
-### 📌 Current Focus
-- 🚀 Building high-performing full-stack applications  
-- 🤖 Integrating AI features (chatbots, recommendation systems, data-driven insights)  
-- 📈 Learning & growing in system design and scalable architectures  
+## What I’m currently focused on
+- Building **production-ready full-stack applications**
+- Adding **AI-powered features** like chatbots, automations, and intelligent workflows
+- Improving my understanding of **system design and scalable architectures**
+- Shipping projects that real people actually use
 
 ---
 
-### 🌐 Let’s Connect
+## Let’s connect
 <p align="left">
-<a href="https://www.upwork.com/freelancers/~015c02aa62e6773f92?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/Upwork-success?logo=upwork&logoColor=white" alt="Upwork"/></a>
-<a href="mailto:hasnaatkhalidfl@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.upwork.com/freelancers/~015c02aa62e6773f92?mp_source=share" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-success?logo=upwork&logoColor=white" />
+</a>
+<a href="mailto:hasnaatkhalidfl@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+<p align="center">
+If you’re working on something interesting or need help bringing an idea to life, feel free to reach out.  
+I’m always happy to talk about tech, products, or new opportunities.
 </p>
